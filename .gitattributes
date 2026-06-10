@@ -1,0 +1,2 @@
+Configs/Default/windows/*.nsi linguist-detectable=false
+Configs/Default/windows/*.nsh linguist-detectable=false
